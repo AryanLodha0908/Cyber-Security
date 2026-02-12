@@ -62,7 +62,7 @@ Multivariate analysis was performed using a correlation heatmap. The heatmap sho
 
 The dataset after preprocessing contained 10,000 balanced samples with 15 optimized features ready for model training.
 
-Results
+   Results
 
 The dataset was successfully cleaned, transformed, and standardized. Missing values were handled appropriately, duplicates were removed, structural inconsistencies were corrected, and outliers were treated. Feature engineering improved dataset richness, while feature selection and PCA reduced redundancy.
 
